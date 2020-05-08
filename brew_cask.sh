@@ -16,7 +16,7 @@ brew cask install docker
 brew cask install dropbox 
 
 # Evernote ノートアプリ。
-brew cask install Evernote
+brew cask install evernote
 
 # Hackgen 美しいプログラミング用フォント。Rictyよりもお気に入り。
 brew cask install font-hackgen
