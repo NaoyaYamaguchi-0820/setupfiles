@@ -9,6 +9,9 @@ brew cask install atom
 # BetterTouchTool 通称BTT。Macのトラックパッドの機能を拡張する。
 brew cask install bettertouchtool
 
+# Cinebench ベンチマーク計測ツール。Windows/MacOS両対応。
+brew cask cinebench
+
 # Docker Docker for Mac。
 brew cask install docker
 
