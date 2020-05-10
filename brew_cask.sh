@@ -10,7 +10,7 @@ brew cask install atom
 brew cask install bettertouchtool
 
 # Cinebench ベンチマーク計測ツール。Windows/MacOS両対応。
-brew cask cinebench
+brew cask install cinebench
 
 # Docker Docker for Mac。
 brew cask install docker
